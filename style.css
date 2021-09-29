@@ -361,6 +361,11 @@ a:hover {
     z-index: 2;
 }
 
+/*temporary -footer address zone*/
+.address {
+    margin-top: 2em;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
